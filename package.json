@@ -1,0 +1,22 @@
+{
+  "name": "@sabaebrahimi/calcpackage",
+  "version": "1.0.0",
+  "description": "package for calculating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabaebrahimi/CalcPackage.git"
+  },
+  "keywords": [
+    "sum"
+  ],
+  "author": "saba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabaebrahimi/CalcPackage/issues"
+  },
+  "homepage": "https://github.com/sabaebrahimi/CalcPackage#readme"
+}
